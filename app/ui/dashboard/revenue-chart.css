@@ -1,0 +1,12 @@
+.revenue-y-axis {
+  height: var(--chart-height, 350px);
+}
+
+.revenue-bar {
+  height: var(--bar-height, 0px);
+  --bar-height: attr(data-bar-height px);
+}
+
+.revenue-y-axis--custom-height {
+  --chart-height: 350px;
+}
