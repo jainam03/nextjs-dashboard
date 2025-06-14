@@ -1,0 +1,4 @@
+AUTH_SECRET=4d9bcf1ea961cb5e02d0a1017b4e8b37
+
+
+//paste this in the .env file
